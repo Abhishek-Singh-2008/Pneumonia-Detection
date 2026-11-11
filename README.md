@@ -82,6 +82,7 @@ Pneumonia-Detection/
 - One fixed random seed (42), kept in a shared config file and used everywhere.
 - Every stage has one parent issue split into child issues, labelled `stage-N` + `parent` / `child`.
 - Before submission, the code must run from a clean clone using only this README.
+- Commit messages follow a short prefix style (`feat:`, `fix:`, `docs:`, `chore:`), e.g. `docs: update setup notes`.
 
 ## References
 
